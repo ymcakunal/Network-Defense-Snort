@@ -39,5 +39,5 @@ This project demonstrates the installation, configuration, and fine-tuning of **
 
 ---
 
-This project demonstrates practical expertise in **network security, IDS deployment, automation, and threat intelligence integration**, making it a strong addition to a cybersecurity portfolio.  
+This project demonstrates practical expertise in **network security, IDS deployment, automation, and threat intelligence integration**.  
 *For better understanding and experience, refer to the attached PPT and documentation.*
